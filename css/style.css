@@ -34,6 +34,7 @@ main {
 button {
     padding: 8px 22px;
     border: none;
+    border: #ffffff75 1px solid;
     border-radius: 8px;
     background: #8e5ad1;
     color: #fff;
